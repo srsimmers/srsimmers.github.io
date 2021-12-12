@@ -159,15 +159,19 @@ When analyzing the website data, I noticed that a lot of the customers who went 
 
 Further analysis
 After adding a boolean variable to determine whether or not a customer is web active, a new scatterplot matrix was made. This one uses 4 variables. The WEB_ACTIVE variable is the x-axis, and the other three displayed are on the y-axis.
+[picture](https://github.com/srsimmers/srsimmers.github.io/blob/main/pic1.png)
 
 This is in comparison to the previous variables with this scatter plot which only used 1 x-axis variable and 2 y-axis variables.
+[picture2](https://github.com/srsimmers/srsimmers.github.io/blob/main/pic2.png)
 
 While these two results may look very similar, this additional variable helps create a distinction between web active users, if they make purchases, and how much they spend as opposed to non web active members. This eliminates the customers with zero web visits from inferring with the other data. This change in data display shows how adding this extra variable helps one greater understand the customer base. 
 I did notice, however, the singular data point where there is web purchase with zero web visits. Scanning through the data, I found customer 198 had no web visits, no web spending, but was marked as yes for web purchase. As the only variable I created/ adjusted was the WEB_ACTIVE variable, this was an error within the dataset. 
 
 Alternative Analytic Methods
 A lot of the information in this sample data is unneeded or jumbled together. Certain variables like names and marital status don't lend much to finding out the reason behind this business declining. A simple customer ID number assigned to each customer instead of a first and last name would reduce the number of variables involved. Also, if the customer ID number was given to customers in the order they became customers, then one could determine how long the customer’s have been contributing to the business. Other dated variables such as the last time the customer went to a restaurant would be helpful in determining the frequency of the customer visits and therefore value. The importance of the marital status is debatable, I think it could be removed without changing the implications of the other data. 
-
+[picture3](https://github.com/srsimmers/srsimmers.github.io/blob/main/pic3.png)
+[picture4](https://github.com/srsimmers/srsimmers.github.io/blob/main/pic4.png)
+[picture5](https://github.com/srsimmers/srsimmers.github.io/blob/main/pic5.png)
 
 Display and Interpretation
 The above graphs compare variables to visually display their relationships with the amount spent by each customer on the Bubba Gump website and the number of visits by each customer. Looking at these graphs, one can see that many of the customers never visit the website, and ,therefore, never spend any money on the website. The amount spent or number of visits doesn’t seem to be dependent on variables such as age or income. The customers from this sample data are also shown to never visit the site more than three times. 
