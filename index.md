@@ -1,3 +1,12 @@
+Self Assesment:
+Completing this Capstone course has really helped me reflect on what subjects I am comfortable with and what skills I should work on to better refine. The knowledge from the computer science courses I’ve taken have faded over time, so it is beneficial to review what I have learned. It has also made me realize how I can present myself to potential future employers through my current skill set and my dedication to further improve my skills. The display of my dedication to constantly improve my own work will help me stand out from the rest. For example, when I created my Farkle game, most would be happy with the program functioning properly and displaying the number values on the screen. I took this a step farther by improving the display to more closely resemble real die faces and add some realism to the project. 
+	Acting as a valuable teammate and meeting the functional and non-functional requirements set by those above me is imperative to me in order to successfully complete a project. Data structures, software engineering, and security procedures are all an important part of development. Throughout this capstone project, I have done my best to show that I have a solid and well-rounded grasp on these topics. 
+
+
+Each portion of this portfolio demonstrates my ability to properly utilize data structures, software engineering, and databases. All three of these categories can be used intandem in one project together and often are. These topics are well versed and illustrated with the projects I include. Often, all the data that will be used isn’t written into the coding program itself, so the code needs a place to refer back to in which to collect that data. This is a common use of databases. In the data structures section of my portfolio, I included a project that used a graphic program that pulled from a specific dataset from a database and graphed the selected data points. This is just one example of how the two can be connected. 
+
+
+
 Project 1: Data Structures
 
 The following project utilizes a Bash file to store command line commands for later use
