@@ -1,4 +1,5 @@
 Self Assesment:
+
 Completing this Capstone course has really helped me reflect on what subjects I am comfortable with and what skills I should work on to better refine. The knowledge from the computer science courses I’ve taken have faded over time, so it is beneficial to review what I have learned. It has also made me realize how I can present myself to potential future employers through my current skill set and my dedication to further improve my skills. The display of my dedication to constantly improve my own work will help me stand out from the rest. For example, when I created my Farkle game, most would be happy with the program functioning properly and displaying the number values on the screen. I took this a step farther by improving the display to more closely resemble real die faces and add some realism to the project. 
 	Acting as a valuable teammate and meeting the functional and non-functional requirements set by those above me is imperative to me in order to successfully complete a project. Data structures, software engineering, and security procedures are all an important part of development. Throughout this capstone project, I have done my best to show that I have a solid and well-rounded grasp on these topics. 
 
@@ -7,7 +8,7 @@ Each portion of this portfolio demonstrates my ability to properly utilize data 
 
 
 
-Project 1: Data Structures
+Project 1: Databases 
 
 The following project utilizes a Bash file to store command line commands for later use
 
@@ -117,7 +118,12 @@ rm NEW
 history>Tasks_Log_File.txt
 ```
 
-Project 2: Databases 
+Narrative for databases:
+	This artifact is a final project from my IT255 class that displayed an array of command line commands in Linux. This project was originally submitted as a .txt log file that showed all the commands I entered. I think this project is a good inclusion because it displays my familiarity with both using databases, executing command line commands, and creating bash files. I improved this artifact by condensing the log file into a bash file so it could be more easily edited and executed. The log file has several typos and rewritten statements because of mistakes that were recorded by the history function. Utilizing a bash file not only eliminates these errors, but allows me to edit the code instead of executing it one line at a time. One line at a time is time consuming as well. A simple mistake means I have to execute the line again and again until I figure out what the error I encountered was. For example, I was often in the wrong directory trying to move files around that weren’t in that specific directory. So, I was seen using the cd and pwd commands very often to check where I was in the system. 
+	With the improvements, the number of code lines was also greatly decreased, making my code simpler and more streamline. Coding involves a lot of trial and error, reducing the frequency of these errors occurring saves a lot of time. The biggest challenge I faced was reformatting and keeping deleting redundant lines of code. The log file was numbered and indented, so I had to reorganize the code as I imported it. 
+
+
+Project 2: Data structures
 
 The following project is an analytical essay written after anayzing datapoints visualized as graphs.
 
@@ -196,6 +202,18 @@ I think the most helpful visual representation was the scatterplot matrix. It is
 
 Next Steps
 I think that once the possible errors of capped variables have been solved, a new hypothesis can be made. It appears that many of the customers for the website and in-person restaurants don’t have much crossover. I think that if more in-person customers were made aware of the website and potential deals there, then there would be more online sales. My advice to the company would be to send out advertisements about the Bubba Gump website to in-person only customers. This can be done via emails, snail mail, or advertisements in the restaurants. 
+
+
+Narrative for data structures:
+
+Briefly describe the artifact. What is it? When was it created? 
+This artifact is an analysis essay of a dataset for the company Bubba Gump Shrimp. The analysis consisted of creating graphs of the data points to observe their relationship and how those relationships could impact the company’s performance. This essay was written as a final project for my DAT220 class a few months ago.
+
+I selected this artifact because it not only demonstrates my ability to correctly utilize database graphing tools, but also shows that I can use those tools to visualize and analyze the dataset and what that might mean for the company owning the dataset. I improved on this essay by addressing an error within the dataset. This error was the fact that when I created graphs, customers who had never visited the company’s website were included within the scatterplots, making the results hard to determine. I created a new variable WEB_ACTIVE as a boolean variable that stored whether or not a customer had been on the website. Using this new variable, I created a new scatter plot that better showed the relationship between web active customers, whether or not they made a purchase, and how much money they spent on the website.
+
+I did meet the course objectives I set out to achieve. There wasn’t a lot else I could change in the analysis essay. I would have liked to fix the issue with the number of reservations per customer seemingly ending at 3, but I don’t have the data I need to fix the problem. 
+
+One of the main challenges I faced while improving my project was locating the dataset. This was difficult because I had previously used a virtual lab to do all the previous coursework in, so the dataset was never downloaded to my physical computer. I tried reaching out to my previous professor but received no answer. After scouring the web, I found a Microsoft Excel sheet with all the data points. After loading this data into JMP and comparing the graphs it created with my project's previous graphs and a screenshot I had of the partial dataset, I determined the Excel sheet held the correct data. I also learned that creating a new variable within JMP was a lot easier than I thought it would be. JMP works a lot like Excel so it was just a matter of creating a new column and filling them all in with Y/N according to the number of web visits for each customer. 
 
 
 Project 3: Software design
@@ -685,6 +703,20 @@ int main(string* players[])
 
 
 ```
+
+Narrative for software design:
+
+A. Briefly describe the artifact. What is it? When was it created? 
+The artifact is a dice game called Farkle created in Visual Studio in C++. I created it in October 2021 for a computer science course.
+
+B. Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved? 
+This artifact has a fair amount of line with nested if statements and loops. This shows my ability to properly format code and make it easier to read. This code also uses quite a few methods and method calls, proving I know how to properly incorporate those into a project. I improved this project by setting up some input error traps and changing the display to closer represent the die faces instead of just numbers. 
+
+C. Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans? 
+Yes, the improvements I set out to incorporate were done so successfully. I thought it would be more difficult than it turned out to be. I do not have any updates on the outcome-coverage plans. Perhaps I could update the instruction .txt file to be better formatted, but that doesn’t affect the functionality of the code. 
+
+D. Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face
+I reflected on what I already knew about coding: there are many correct ways to do the same thing. I could have implemented the display of the die faces a few different ways, but I’m sure the way I chose was effective and followed good practices. The main challenge was getting the display of the dice to look nice and like actual dice. I originally wanted to create a die face with two pipe symbols stacked on top of each other on each side of the symbol so that I could use an asterisk for the dot and properly space out the dots. However, this proved difficult because two pipe symbols would need another line and that would ruin the formatting. I decided to use periods and colons with brackets on each side to represent to die faces. 
 
 
 
