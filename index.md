@@ -6,7 +6,7 @@ Completing this Capstone course has really helped me reflect on what subjects I 
 
 Each portion of this portfolio demonstrates my ability to properly utilize data structures, software engineering, and databases. All three of these categories can be used intandem in one project together and often are. These topics are well versed and illustrated with the projects I include. Often, all the data that will be used isn’t written into the coding program itself, so the code needs a place to refer back to in which to collect that data. This is a common use of databases. In the data structures section of my portfolio, I included a project that used a graphic program that pulled from a specific dataset from a database and graphed the selected data points. This is just one example of how the two can be connected. 
 
-
+Link to code review can be found [here](https://youtu.be/Ww_sazU_New)
 
 Project 1: Databases 
 
