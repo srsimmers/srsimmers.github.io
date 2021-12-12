@@ -110,7 +110,9 @@ history>Tasks_Log_File.txt
 
 Project 2: Databases 
 
-The following project is an analytical essay written after anayzing datapoints visualized as graphs
+The following project is an analytical essay written after anayzing datapoints visualized as graphs.
+
+The dataset for this essay can be found [here](https://github.com/srsimmers/srsimmers.github.io/blob/main/DAT220%20Final%20Project%20Data%20(1)%20(1).jmp)
 
 Business Problem
 The main problem that presents itself in the prompt is the stagnation and decline of sales within the last two years. Fortunately, an integrated data warehouse has been created for current and future analysis. How can the newly acquired data be analyzed in a way that will help the future of Bubba Gump Shrimp?
