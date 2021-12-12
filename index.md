@@ -1,5 +1,4 @@
-
-##Project 1: Data Structures
+Project 1: Data Structures
 
 The following project utilizes a Bash file to store command line commands for later use
 
@@ -109,7 +108,7 @@ rm NEW
 history>Tasks_Log_File.txt
 ```
 
-##Project 2: Databases 
+Project 2: Databases 
 
 The following project is an analytical essay written after anayzing datapoints visualized as graphs
 
